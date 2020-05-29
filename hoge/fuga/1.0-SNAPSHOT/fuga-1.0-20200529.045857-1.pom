@@ -48,7 +48,7 @@
         <locales>en</locales>
         <inputEncoding>UTF-8</inputEncoding>
         <outputEncoding>UTF-8</outputEncoding>
-        <outputDirectory>mvn-repo</outputDirectory>
+        <outputDirectory>mvn-repo2</outputDirectory>
       </configuration>
       <dependencies>
         <dependency>
